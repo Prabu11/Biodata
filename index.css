@@ -1,0 +1,36 @@
+body{color: rgba(8, 8, 6, 0.429);
+    
+}
+h1{
+    text-decoration: wavy;
+    font-size:170%;
+    color: rgb(6, 9, 12);
+    font-family: 'Trebuchet MS';
+    margin-top: 30px;
+}
+h2{
+    color: rgb(9, 10, 12);
+    font-family: 'Trebuchet MS';
+    font-size:170%;
+}
+form{
+    align-items: center;
+
+}
+fieldset{
+    color: black;
+}
+header{
+    color: rgb(7, 8, 9);
+    font-style: oblique;
+    font-family: 'Trebuchet MS';
+    font-size: 200%;
+
+}
+footer{
+    color: rgb(0, 0, 0);
+    font-family:'Trebuchet MS';
+}
+h5{
+    color: rgb(1, 1, 1);
+    font-family:'Trebuchet MS';}
